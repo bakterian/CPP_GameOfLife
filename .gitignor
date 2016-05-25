@@ -1,0 +1,10 @@
+GameOfLifeWpfBoard/bin/*
+GameOfLifeWpfBoard/obj/*
+ManagedGameOfLifeLib/Debug/*
+ManagedGameOfLifeLib/Release/*
+UnmanagedGameOfLifeLib/Debug/*
+UnmanagedGameOfLifeLib/Release/*
+UnmanagedGameOfLifeLib.Test/Debug/*
+UnmanagedGameOfLifeLib.Test/Release/*
+
+
